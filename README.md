@@ -1,5 +1,7 @@
 <h1>Assignment 2 (10%) / jQuery - AJAX - JSON - Media Queries</h1>
 
+<p>link: https://anthonyreyesf.github.io/SYST24444-A2/</p>
+  
 <ul>
   <li>Create a mobile web site (Create a new folder to hold all files/folders)</li>
     <ul>
