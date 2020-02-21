@@ -1,5 +1,6 @@
 <h1>Assignment 2 (10%) / jQuery - AJAX - JSON - Media Queries</h1>
 
+<p>Assignment focused in using JQuery, AJAX & JSON</p>
 <p>link: https://anthonyreyesf.github.io/SYST24444-A2/</p>
   
 <ul>
